@@ -7,6 +7,9 @@ st.write("### heading 3")
 st.write("## heading 2")
 st.write("# heading 1")
 
+st.title('Employee PerformancePerformancePerformancePerformancePerformancePerformance web app')
+
+
 department = st.selectbox('Select your department', ['HR', 'R&D', 'Legal'])
 
 no_of_trainings = st.slider('Number of Trainings', 1, 5, 1)
