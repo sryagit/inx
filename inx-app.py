@@ -7,7 +7,7 @@ st.write("### heading 3")
 st.write("## heading 2")
 st.write("# heading 1")
 
-st.title('Employee PerformancePerformancePerformancePerformancePerformancePerformance web app')
+st.title('Employee Performance Performance Performance Performance Performance Performance web app')
 
 
 department = st.selectbox('Select your department', ['HR', 'R&D', 'Legal'])
