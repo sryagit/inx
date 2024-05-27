@@ -4,8 +4,8 @@ import pickle
 
 st.title('Employee Performance web app')
 st.write("### heading 3")
-st.write("""## heading 2""")
-st.write("""# heading 1""")
+st.write("## heading 2")
+st.write("# heading 1")
 
 department = st.selectbox('Select your department', ['HR', 'R&D', 'Legal'])
 
